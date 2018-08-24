@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutomationTests">
+<test name="testsuite">
+<!-- <classes>
+	<class name="Test.Annotations2"></class>
+	<class name="testNGFiles.basicTest"></class>
+</classes> -->
+<packages>
+
+<package name="*test.*"></package>
+</packages>
+</test>
+</suite>
